@@ -1,5 +1,5 @@
 {
-    "name": "zored/adminlte-bundle",
+    "name": "kevinpapst/adminlte-bundle",
     "type": "symfony-bundle",
     "description": "Admin theme bundle for Symfony 4+ based on AdminLTE 2.4 with FOSUserBundle support",
     "license": "MIT",
