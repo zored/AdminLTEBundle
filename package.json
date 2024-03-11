@@ -23,5 +23,7 @@
         "watch": "encore dev --watch",
         "build": "encore production"
     },
-    "dependencies": {}
+    "dependencies": {
+        "moment": "2.29.4"
+    }
 }

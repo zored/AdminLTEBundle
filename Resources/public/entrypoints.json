@@ -2,7 +2,7 @@
   "entrypoints": {
     "adminlte": {
       "js": [
-        "/bundles/adminlte/adminlte.js?4e5af81e7a2186622a4e"
+        "/bundles/adminlte/adminlte.js?eff885317bfdfa3af7e1"
       ],
       "css": [
         "/bundles/adminlte/adminlte.css?195959b6dfb680a63ade"
